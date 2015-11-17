@@ -1,4 +1,4 @@
 # Nina_Komarova-Zelinskaya-outlines
 lines algorythm 
-http://Ninotschka.github.lo/Nina_Komarova-Zelinskaya-outlines
+http://Ninotschka.github.io/Nina_Komarova-Zelinskaya-outlines
 
